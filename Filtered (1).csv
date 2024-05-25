@@ -1,0 +1,13 @@
+,#,Name,Type 1,Type 2,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary,Total
+0,146,Moltres,Fire,Flying,90,100,90,125,85,90,1,True,580
+1,244,Entei,Fire,,115,115,85,90,75,100,2,True,580
+2,245,Suicune,Water,,100,75,115,90,115,85,2,True,580
+3,250,Ho-oh,Fire,Flying,106,130,90,110,154,90,2,True,680
+4,382,Kyogre,Water,,100,100,90,150,140,90,3,True,670
+5,382,KyogrePrimal Kyogre,Water,,100,150,90,180,160,90,3,True,770
+6,484,Palkia,Water,Dragon,90,120,100,150,120,100,4,True,680
+7,485,Heatran,Fire,Steel,91,90,106,130,106,77,4,True,600
+8,492,ShayminLand Forme,Grass,,100,100,100,100,100,100,4,True,600
+9,492,ShayminSky Forme,Grass,Flying,100,103,75,120,75,127,4,True,600
+10,640,Virizion,Grass,Fighting,91,90,72,90,129,108,5,True,580
+11,721,Volcanion,Fire,Water,80,110,120,130,90,70,6,True,600
